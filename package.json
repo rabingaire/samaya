@@ -1,0 +1,29 @@
+{
+  "name": "samaya",
+  "version": "0.0.1",
+  "description": "Samaya looks at previous commit and tells user how much time has passed since previous commit.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "author": "Rabin Gaire",
+  "license": "MIT",
+  "bin": {
+    "samaya": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabingaire/samaya.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "date-fns": "^1.29.0",
+    "shelljs": "^0.8.1",
+    "update-notifier": "^2.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/rabingaire/samaya/issues"
+  },
+  "homepage": "https://github.com/rabingaire/samaya#readme"
+}
