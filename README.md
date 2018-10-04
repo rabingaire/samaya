@@ -1,6 +1,6 @@
 # samaya
 
-> Since Commit looks at previous commit and tells a user how much time has passed since the previous commit.
+> Samaya looks at previous commit and tells a user how much time has passed since the previous commit.
 
 ## Install
 
