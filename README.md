@@ -8,6 +8,12 @@
 $ [sudo] npm install -g samaya
 ```
 
+## Preview
+
+<p align="center">
+<img src="./demo.gif">
+</p>
+
 ## Usage
 
 ```
